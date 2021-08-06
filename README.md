@@ -9,7 +9,7 @@ for git ........................................
 
 for projenvairment...........................
 how to create env
-python3 -m venv env ////
+python3 -m venv env //// virtualenv {prjectname}
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 
